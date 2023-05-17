@@ -1,0 +1,8 @@
+2023-05-17 10:00:41 INFO  Main:13 - This is info : User login in
+2023-05-17 10:00:41 WARN  Main:16 - This is warn : Connect DB timeout
+2023-05-17 10:09:32 INFO  Management:320 - This is info : Da them thanh cong: [id = 1, ten = TESTER]
+2023-05-17 14:03:45 WARN  Management:323 - This is warn : Ten danh muc khong duoc de trong
+2023-05-17 14:03:46 INFO  Management:320 - This is info : Da them thanh cong: [id = 1, ten = ]
+2023-05-17 14:11:44 WARN  Management:323 - This is warn : Ten danh muc khong duoc de trong
+2023-05-17 14:11:44 WARN  Management:323 - This is warn : Ten danh muc da ton tai
+2023-05-17 14:11:45 INFO  Management:320 - This is info : Da them thanh cong: [id = 1, ten = ]
